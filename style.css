@@ -663,3 +663,82 @@ img{
     margin-top:10px;
 
 }
+
+
+
+
+/* ========================================= */
+/* WHY KORVEDA */
+/* ========================================= */
+
+.why{
+
+    padding:120px 8%;
+
+    background:white;
+
+}
+
+.why-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:35px;
+
+    margin-top:70px;
+
+}
+
+.why-card{
+
+    background:#ffffff;
+
+    border-radius:18px;
+
+    padding:40px;
+
+    border:1px solid #ececec;
+
+    transition:.35s;
+
+}
+
+.why-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 25px 55px rgba(0,0,0,.08);
+
+    border-color:var(--gold);
+
+}
+
+.why-card i{
+
+    font-size:40px;
+
+    color:var(--gold);
+
+    margin-bottom:25px;
+
+}
+
+.why-card h3{
+
+    color:var(--green);
+
+    margin-bottom:18px;
+
+    font-size:24px;
+
+}
+
+.why-card p{
+
+    color:#666;
+
+    line-height:1.8;
+
+}
