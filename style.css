@@ -935,3 +935,15 @@ img{
     background:var(--gold);
 
 }
+
+
+
+.info-item a{
+    color:white;
+    text-decoration:none;
+    transition:.3s;
+}
+
+.info-item a:hover{
+    color:var(--gold);
+}
