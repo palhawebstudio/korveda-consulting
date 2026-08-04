@@ -564,3 +564,133 @@ img{
     color:var(--gold);
 
 }
+
+
+
+/* ========================================= */
+/* MARKETS */
+/* ========================================= */
+
+.markets{
+
+    padding:120px 8%;
+
+    background:white;
+
+}
+
+.markets-container{
+
+    display:grid;
+
+    grid-template-columns:1fr 1fr 1fr;
+
+    gap:50px;
+
+    align-items:center;
+
+    margin-top:80px;
+
+}
+
+.market-card{
+
+    background:#f8f8f8;
+
+    border-radius:20px;
+
+    padding:45px;
+
+    text-align:center;
+
+    transition:.35s;
+
+}
+
+.market-card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 20px 45px rgba(0,0,0,.08);
+
+}
+
+.market-card i{
+
+    font-size:60px;
+
+    color:var(--green);
+
+    margin-bottom:25px;
+
+}
+
+.market-card h3{
+
+    color:var(--green);
+
+    margin-bottom:20px;
+
+    font-size:28px;
+
+}
+
+.market-card p{
+
+    color:#666;
+
+    line-height:2;
+
+}
+
+.market-center{
+
+    text-align:center;
+
+}
+
+.circle{
+
+    width:180px;
+
+    height:180px;
+
+    border-radius:50%;
+
+    background:var(--green);
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    margin:auto;
+
+    box-shadow:0 20px 50px rgba(20,61,49,.25);
+
+}
+
+.circle img{
+
+    width:120px;
+
+}
+
+.market-center h3{
+
+    margin-top:30px;
+
+    color:var(--green);
+
+    font-size:32px;
+
+}
+
+.market-center p{
+
+    color:#777;
+
+    margin-top:10px;
+
+}
