@@ -318,3 +318,71 @@ img{
     }
 
 }
+
+/* ========================================= */
+/* ABOUT */
+/* ========================================= */
+
+.about{
+
+    display:grid;
+
+    grid-template-columns:1fr 1fr;
+
+    gap:80px;
+
+    align-items:center;
+
+    padding:120px 8%;
+
+    background:#ffffff;
+
+}
+
+.about span{
+
+    color:var(--gold);
+
+    font-size:14px;
+
+    letter-spacing:3px;
+
+    font-weight:600;
+
+}
+
+.about h2{
+
+    font-family:'Playfair Display',serif;
+
+    font-size:52px;
+
+    color:var(--green);
+
+    margin:20px 0 30px;
+
+    line-height:1.2;
+
+}
+
+.about p{
+
+    font-size:18px;
+
+    line-height:1.9;
+
+    color:#555;
+
+    margin-bottom:25px;
+
+}
+
+.about-image img{
+
+    width:100%;
+
+    border-radius:20px;
+
+    box-shadow:0 20px 60px rgba(0,0,0,.15);
+
+}
