@@ -568,56 +568,56 @@ img{
 
 
 /* ========================================= */
-/* MARKETS */
+/* GLOBAL REACH */
 /* ========================================= */
 
-.markets{
-
-    padding:120px 8%;
-
-    background:white;
-
-}
-
-.markets-container{
-
-    display:grid;
-
-    grid-template-columns:1fr 1fr 1fr;
-
-    gap:50px;
-
-    align-items:center;
-
-    margin-top:80px;
-
-}
-
-.market-card{
+.global-reach{
 
     background:#f8f8f8;
 
-    border-radius:20px;
+    padding:120px 8%;
+
+}
+
+.reach-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:35px;
+
+    margin-top:70px;
+
+}
+
+.reach-card{
+
+    background:white;
 
     padding:45px;
+
+    border-radius:20px;
 
     text-align:center;
 
     transition:.35s;
 
+    box-shadow:0 15px 40px rgba(0,0,0,.06);
+
 }
 
-.market-card:hover{
+.reach-card:hover{
 
     transform:translateY(-8px);
 
-    box-shadow:0 20px 45px rgba(0,0,0,.08);
+    box-shadow:0 25px 55px rgba(0,0,0,.10);
 
 }
 
-.market-card i{
+.reach-card i{
 
-    font-size:60px;
+    font-size:48px;
 
     color:var(--green);
 
@@ -625,7 +625,7 @@ img{
 
 }
 
-.market-card h3{
+.reach-card h3{
 
     color:var(--green);
 
@@ -635,62 +635,31 @@ img{
 
 }
 
-.market-card p{
+.reach-card p{
 
     color:#666;
 
-    line-height:2;
+    line-height:1.8;
 
 }
 
-.market-center{
+.reach-card ul{
 
-    text-align:center;
+    list-style:none;
 
-}
-
-.circle{
-
-    width:180px;
-
-    height:180px;
-
-    border-radius:50%;
-
-    background:var(--green);
-
-    display:flex;
-
-    justify-content:center;
-
-    align-items:center;
-
-    margin:auto;
-
-    box-shadow:0 20px 50px rgba(20,61,49,.25);
+    padding:0;
 
 }
 
-.circle img{
+.reach-card li{
 
-    width:120px;
+    margin:12px 0;
 
-}
+    color:#555;
 
-.market-center h3{
-
-    margin-top:30px;
-
-    color:var(--green);
-
-    font-size:32px;
+    font-size:17px;
 
 }
-
-.market-center p{
-
-    color:#777;
-
     margin-top:10px;
 
 }
