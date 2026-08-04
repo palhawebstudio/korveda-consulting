@@ -386,3 +386,120 @@ img{
     box-shadow:0 20px 60px rgba(0,0,0,.15);
 
 }
+
+
+/* ========================================= */
+/* SERVICES */
+/* ========================================= */
+
+.services{
+
+    background:#f7f7f7;
+
+    padding:120px 8%;
+
+}
+
+.section-title{
+
+    text-align:center;
+
+    max-width:850px;
+
+    margin:auto auto 70px;
+
+}
+
+.section-title span{
+
+    color:var(--gold);
+
+    letter-spacing:3px;
+
+    font-size:14px;
+
+    font-weight:600;
+
+}
+
+.section-title h2{
+
+    font-family:'Playfair Display',serif;
+
+    font-size:52px;
+
+    color:var(--green);
+
+    margin:20px 0;
+
+}
+
+.section-title p{
+
+    font-size:18px;
+
+    line-height:1.8;
+
+    color:#666;
+
+}
+
+.services-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:35px;
+
+}
+
+.service-card{
+
+    background:white;
+
+    border-radius:20px;
+
+    padding:45px;
+
+    text-align:center;
+
+    transition:.35s;
+
+    box-shadow:0 15px 40px rgba(0,0,0,.06);
+
+}
+
+.service-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:0 30px 60px rgba(0,0,0,.12);
+
+}
+
+.icon{
+
+    font-size:55px;
+
+    margin-bottom:25px;
+
+}
+
+.service-card h3{
+
+    color:var(--green);
+
+    font-size:24px;
+
+    margin-bottom:20px;
+
+}
+
+.service-card p{
+
+    color:#666;
+
+    line-height:1.8;
+
+}
