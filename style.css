@@ -79,9 +79,8 @@ img{
 }
 
 .logo img{
-
-    height:70px;
-
+    height:120px;
+    width:auto;
 }
 
 .nav-links{
