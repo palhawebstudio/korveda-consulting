@@ -25,7 +25,7 @@ const translations = {
         "nav-markets": "Presença Global",
         "nav-contact": "Contacto",
 
-        "contact-button": "Contacte-nos"
+        "contact-button": "Contacte-nos",
 
     "hero-subtitle":"CONSULTORIA AGRÍCOLA INTERNACIONAL",
 
@@ -43,7 +43,7 @@ const translations = {
         "nav-markets": "Alcance Global",
         "nav-contact": "Contacto",
 
-        "contact-button": "Contáctenos"
+        "contact-button": "Contáctenos",
 
 
         "hero-subtitle":"CONSULTORÍA AGRÍCOLA INTERNACIONAL",
