@@ -103,7 +103,7 @@ const translations = {
 "service-5-title": "Fertilizantes",
 "service-5-description": "Fornecimento internacional de fertilizantes para produção agrícola.",
 
-"service-6-title": "Pet Food",
+"service-6-title": "Ração para Animais",
 "service-6-description": "Matérias-primas e ingredientes para a indústria de alimentação animal.",
         "reach-subtitle": "PRESENÇA GLOBAL",
 "reach-title": "A nossa rede internacional",
@@ -111,7 +111,6 @@ const translations = {
 
 "reach-card-1-title": "Negócio Internacional",
 "reach-card-1-description": "Trabalhamos com parceiros e clientes em todo o mundo.",
-
 "reach-card-2-title": "Origem do Gado",
 "reach-card-2-item-1": "🇵🇹 Portugal",
 "reach-card-2-item-2": "🇪🇸 Espanha",
