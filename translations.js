@@ -7,7 +7,7 @@ const translations = {
         "nav-markets": "Global Reach",
         "nav-contact": "Contact",
 
-        "contact-button": "Contact Us"
+        "contact-button": "Contact Us",
         "hero-subtitle":"INTERNATIONAL AGRICULTURAL CONSULTING",
 
 "hero-title":"Connecting<br>Global Markets",
