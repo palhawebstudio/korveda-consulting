@@ -96,6 +96,9 @@ const translations = {
 
 "why-6-title": "Business Growth",
 "why-6-description": "Helping companies expand into international markets.",
+        "why-subtitle": "WHY KORVEDA",
+"why-title": "Trusted Worldwide.<br>Focused on Long-Term Partnerships.",
+"why-description": "We connect producers, suppliers and buyers through reliable, transparent and professional consulting services.",
     },
 
     pt: {
@@ -191,6 +194,9 @@ const translations = {
 
 "why-6-title": "Crescimento Empresarial",
 "why-6-description": "Ajudamos empresas a expandirem-se para mercados internacionais.",
+        "why-subtitle": "PORQUÊ A KORVEDA",
+"why-title": "Confiança Mundial.<br>Focados em Parcerias de Longo Prazo.",
+"why-description": "Ligamos produtores, fornecedores e compradores através de serviços de consultoria fiáveis, transparentes e profissionais.",
     },
 
     es: {
@@ -289,6 +295,9 @@ const translations = {
 
 "why-6-title": "Crecimiento Empresarial",
 "why-6-description": "Ayudamos a las empresas a expandirse a mercados internacionales.",
+        "why-subtitle": "POR QUÉ KORVEDA",
+"why-title": "Confianza Mundial.<br>Enfocados en Alianzas a Largo Plazo.",
+"why-description": "Conectamos productores, proveedores y compradores mediante servicios de consultoría fiables, transparentes y profesionales.",
 
     }
 
