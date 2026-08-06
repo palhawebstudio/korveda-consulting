@@ -47,6 +47,17 @@ function changeLanguage(language) {
 
     });
 
+    document.querySelectorAll("[data-lang-placeholder]").forEach(element => {
+
+    const key = element.dataset.langPlaceholder;
+
+    if (translations[language][key]) {
+
+        element.placeholder = translations[language][key];
+
+    }
+
+});
 }
 
 document.querySelectorAll(".lang-btn").forEach(button => {
