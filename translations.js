@@ -14,7 +14,6 @@ const translations = {
 
 "hero-description":"Trusted consulting connecting producers, suppliers and buyers across Europe, South America and worldwide.",
 
-"hero-services":"Our Services",
 
     },
 
@@ -32,8 +31,6 @@ const translations = {
 "hero-title":"Ligando<br>Mercados Globais",
 
 "hero-description":"Consultoria de confiança que liga produtores, fornecedores e compradores na Europa, América do Sul e em todo o mundo.",
-
-"hero-services":"Os Nossos Serviços",
     },
 
     es: {
@@ -52,7 +49,6 @@ const translations = {
 
 "hero-description":"Consultoría de confianza que conecta productores, proveedores y compradores en Europa, Sudamérica y todo el mundo.",
 
-"hero-services":"Nuestros Servicios",
     }
 
 };
