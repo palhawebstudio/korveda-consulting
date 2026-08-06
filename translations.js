@@ -8,6 +8,13 @@ const translations = {
         "nav-contact": "Contact",
 
         "contact-button": "Contact Us"
+        "hero-subtitle":"INTERNATIONAL AGRICULTURAL CONSULTING",
+
+"hero-title":"Connecting<br>Global Markets",
+
+"hero-description":"Trusted consulting connecting producers, suppliers and buyers across Europe, South America and worldwide.",
+
+"hero-services":"Our Services",
 
     },
 
@@ -20,6 +27,13 @@ const translations = {
 
         "contact-button": "Contacte-nos"
 
+    "hero-subtitle":"CONSULTORIA AGRÍCOLA INTERNACIONAL",
+
+"hero-title":"Ligando<br>Mercados Globais",
+
+"hero-description":"Consultoria de confiança que liga produtores, fornecedores e compradores na Europa, América do Sul e em todo o mundo.",
+
+"hero-services":"Os Nossos Serviços",
     },
 
     es: {
@@ -31,42 +45,15 @@ const translations = {
 
         "contact-button": "Contáctenos"
 
+
+        "hero-subtitle":"CONSULTORÍA AGRÍCOLA INTERNACIONAL",
+
+"hero-title":"Conectando<br>Mercados Globales",
+
+"hero-description":"Consultoría de confianza que conecta productores, proveedores y compradores en Europa, Sudamérica y todo el mundo.",
+
+"hero-services":"Nuestros Servicios",
     }
 
 };
 
-en:{
-
-    ...
-
-    "hero-title":"Connecting Global Markets",
-
-    "hero-text":"Trusted consulting connecting producers, suppliers and buyers across Europe, South America and worldwide.",
-
-    "hero-button":"Contact Us"
-
-},
-
-pt:{
-
-    ...
-
-    "hero-title":"Ligando Mercados Globais",
-
-    "hero-text":"Consultoria de confiança que liga produtores, fornecedores e compradores na Europa, América do Sul e em todo o mundo.",
-
-    "hero-button":"Contacte-nos"
-
-},
-
-es:{
-
-    ...
-
-    "hero-title":"Conectando Mercados Globales",
-
-    "hero-text":"Consultoría de confianza que conecta productores, proveedores y compradores en Europa, Sudamérica y todo el mundo.",
-
-    "hero-button":"Contáctenos"
-
-}
