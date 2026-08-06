@@ -77,6 +77,25 @@ const translations = {
 "form-country": "Country",
 "form-message": "Tell us about your enquiry...",
 "form-button": "Send Message",
+
+
+        "why-1-title": "Trusted Partnerships",
+"why-1-description": "Building long-term business relationships based on trust.",
+
+"why-2-title": "Worldwide Network",
+"why-2-description": "International connections across multiple agricultural markets.",
+
+"why-3-title": "Professional Negotiation",
+"why-3-description": "Creating value for buyers and suppliers.",
+
+"why-4-title": "Independent Consulting",
+"why-4-description": "Objective advice focused on business success.",
+
+"why-5-title": "Supply Chain Expertise",
+"why-5-description": "Knowledge of international agricultural logistics.",
+
+"why-6-title": "Business Growth",
+"why-6-description": "Helping companies expand into international markets.",
     },
 
     pt: {
@@ -154,6 +173,24 @@ const translations = {
 "form-country": "País",
 "form-message": "Fale-nos sobre o seu pedido...",
 "form-button": "Enviar Mensagem",
+
+        "why-1-title": "Parcerias de Confiança",
+"why-1-description": "Construção de relações comerciais duradouras baseadas na confiança.",
+
+"why-2-title": "Rede Global",
+"why-2-description": "Ligações internacionais em diversos mercados agrícolas.",
+
+"why-3-title": "Negociação Profissional",
+"why-3-description": "Criação de valor para compradores e fornecedores.",
+
+"why-4-title": "Consultoria Independente",
+"why-4-description": "Aconselhamento objetivo focado no sucesso do negócio.",
+
+"why-5-title": "Especialização em Cadeia de Abastecimento",
+"why-5-description": "Conhecimento da logística agrícola internacional.",
+
+"why-6-title": "Crescimento Empresarial",
+"why-6-description": "Ajudamos empresas a expandirem-se para mercados internacionais.",
     },
 
     es: {
@@ -234,6 +271,24 @@ const translations = {
 "form-country": "País",
 "form-message": "Cuéntenos sobre su consulta...",
 "form-button": "Enviar Mensaje",
+
+        "why-1-title": "Alianzas de Confianza",
+"why-1-description": "Construimos relaciones comerciales duraderas basadas en la confianza.",
+
+"why-2-title": "Red Mundial",
+"why-2-description": "Conexiones internacionales en múltiples mercados agrícolas.",
+
+"why-3-title": "Negociación Profesional",
+"why-3-description": "Creando valor para compradores y proveedores.",
+
+"why-4-title": "Consultoría Independiente",
+"why-4-description": "Asesoramiento objetivo centrado en el éxito empresarial.",
+
+"why-5-title": "Experiencia en la Cadena de Suministro",
+"why-5-description": "Conocimiento de la logística agrícola internacional.",
+
+"why-6-title": "Crecimiento Empresarial",
+"why-6-description": "Ayudamos a las empresas a expandirse a mercados internacionales.",
 
     }
 
