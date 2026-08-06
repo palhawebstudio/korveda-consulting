@@ -59,6 +59,24 @@ const translations = {
 "reach-card-3-title": "Meat Supply",
 "reach-card-3-item-1": "🇪🇺 Europe",
 "reach-card-3-item-2": "🌎 South America",
+
+        "contact-subtitle": "CONTACT US",
+"contact-title": "Let's Build New Business Opportunities",
+"contact-description": "Whether you are looking for reliable suppliers, trusted buyers or international consulting services, Korveda Consulting is ready to help.",
+
+"contact-info-title": "Get in Touch",
+"contact-info-description": "We are available to discuss international business opportunities and answer any questions about our consulting services.",
+"contact-person": "Contact Person",
+"contact-phone": "Phone / WhatsApp",
+"contact-email": "Email",
+"contact-markets": "Markets",
+
+"form-name": "Full Name",
+"form-company": "Company",
+"form-email": "Email Address",
+"form-country": "Country",
+"form-message": "Tell us about your enquiry...",
+"form-button": "Send Message",
     },
 
     pt: {
@@ -119,6 +137,23 @@ const translations = {
 "reach-card-3-title": "Fornecimento de Carne",
 "reach-card-3-item-1": "🇪🇺 Europa",
 "reach-card-3-item-2": "🌎 América do Sul",
+        "contact-subtitle": "CONTACTO",
+"contact-title": "Vamos Criar Novas Oportunidades de Negócio",
+"contact-description": "Quer procure fornecedores de confiança, compradores ou serviços de consultoria internacional, a Korveda Consulting está pronta para ajudar.",
+
+"contact-info-title": "Entre em Contacto",
+"contact-info-description": "Estamos disponíveis para discutir oportunidades de negócio internacionais e responder a qualquer questão sobre os nossos serviços de consultoria.",
+"contact-person": "Pessoa de Contacto",
+"contact-phone": "Telefone / WhatsApp",
+"contact-email": "Email",
+"contact-markets": "Mercados",
+
+"form-name": "Nome Completo",
+"form-company": "Empresa",
+"form-email": "Endereço de Email",
+"form-country": "País",
+"form-message": "Fale-nos sobre o seu pedido...",
+"form-button": "Enviar Mensagem",
     },
 
     es: {
@@ -181,6 +216,24 @@ const translations = {
 "reach-card-3-title": "Suministro de Carne",
 "reach-card-3-item-1": "🇪🇺 Europa",
 "reach-card-3-item-2": "🌎 Sudamérica",
+
+        "contact-subtitle": "CONTACTO",
+"contact-title": "Creemos Nuevas Oportunidades de Negocio",
+"contact-description": "Si busca proveedores fiables, compradores o servicios de consultoría internacional, Korveda Consulting está preparada para ayudarle.",
+
+"contact-info-title": "Póngase en Contacto",
+"contact-info-description": "Estamos disponibles para hablar sobre oportunidades de negocio internacionales y responder a cualquier pregunta sobre nuestros servicios de consultoría.",
+"contact-person": "Persona de Contacto",
+"contact-phone": "Teléfono / WhatsApp",
+"contact-email": "Correo Electrónico",
+"contact-markets": "Mercados",
+
+"form-name": "Nombre Completo",
+"form-company": "Empresa",
+"form-email": "Correo Electrónico",
+"form-country": "País",
+"form-message": "Cuéntenos sobre su consulta...",
+"form-button": "Enviar Mensaje",
 
     }
 
