@@ -44,6 +44,21 @@ const translations = {
 
 "service-6-title": "Pet Food",
 "service-6-description": "Raw materials and ingredients for pet food industries.",
+        "reach-subtitle": "GLOBAL REACH",
+"reach-title": "Our international network",
+"reach-description": "Our extensive network allows us to connect agricultural businesses across Europe, South America and other international markets with confidence and efficiency.",
+
+"reach-card-1-title": "Worldwide Business",
+"reach-card-1-description": "We work with partners and customers around the globe.",
+
+"reach-card-2-title": "Livestock Origins",
+"reach-card-2-item-1": "🇵🇹 Portugal",
+"reach-card-2-item-2": "🇪🇸 Spain",
+"reach-card-2-item-3": "🌎 South America",
+
+"reach-card-3-title": "Meat Supply",
+"reach-card-3-item-1": "🇪🇺 Europe",
+"reach-card-3-item-2": "🌎 South America",
     },
 
     pt: {
@@ -90,6 +105,21 @@ const translations = {
 
 "service-6-title": "Pet Food",
 "service-6-description": "Matérias-primas e ingredientes para a indústria de alimentação animal.",
+        "reach-subtitle": "PRESENÇA GLOBAL",
+"reach-title": "A nossa rede internacional",
+"reach-description": "A nossa extensa rede permite ligar empresas agrícolas na Europa, América do Sul e outros mercados internacionais com confiança e eficiência.",
+
+"reach-card-1-title": "Negócio Internacional",
+"reach-card-1-description": "Trabalhamos com parceiros e clientes em todo o mundo.",
+
+"reach-card-2-title": "Origem do Gado",
+"reach-card-2-item-1": "🇵🇹 Portugal",
+"reach-card-2-item-2": "🇪🇸 Espanha",
+"reach-card-2-item-3": "🌎 América do Sul",
+
+"reach-card-3-title": "Fornecimento de Carne",
+"reach-card-3-item-1": "🇪🇺 Europa",
+"reach-card-3-item-2": "🌎 América do Sul",
     },
 
     es: {
@@ -137,6 +167,21 @@ const translations = {
 
 "service-6-title": "Alimentos para Mascotas",
 "service-6-description": "Materias primas e ingredientes para la industria de alimentos para mascotas.",
+        "reach-subtitle": "PRESENCIA GLOBAL",
+"reach-title": "Nuestra red internacional",
+"reach-description": "Nuestra amplia red nos permite conectar empresas agrícolas de Europa, Sudamérica y otros mercados internacionales con confianza y eficiencia.",
+
+"reach-card-1-title": "Negocio Internacional",
+"reach-card-1-description": "Trabajamos con socios y clientes de todo el mundo.",
+
+"reach-card-2-title": "Origen del Ganado",
+"reach-card-2-item-1": "🇵🇹 Portugal",
+"reach-card-2-item-2": "🇪🇸 España",
+"reach-card-2-item-3": "🌎 Sudamérica",
+
+"reach-card-3-title": "Suministro de Carne",
+"reach-card-3-item-1": "🇪🇺 Europa",
+"reach-card-3-item-2": "🌎 Sudamérica",
 
     }
 
