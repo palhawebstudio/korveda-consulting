@@ -13,7 +13,7 @@ const translations = {
 "hero-title":"Connecting<br>Global Markets",
 
 "hero-description":"Trusted consulting connecting producers, suppliers and buyers across Europe, South America and worldwide.",
-
+"hero-contact":"Contact Us",
 
     },
 
@@ -31,6 +31,7 @@ const translations = {
 "hero-title":"Ligando<br>Mercados Globais",
 
 "hero-description":"Consultoria de confiança que liga produtores, fornecedores e compradores na Europa, América do Sul e em todo o mundo.",
+        "hero-contact":"Contacte-nos",
     },
 
     es: {
@@ -48,6 +49,7 @@ const translations = {
 "hero-title":"Conectando<br>Mercados Globales",
 
 "hero-description":"Consultoría de confianza que conecta productores, proveedores y compradores en Europa, Sudamérica y todo el mundo.",
+        "hero-contact":"Contáctenos",
 
     }
 
