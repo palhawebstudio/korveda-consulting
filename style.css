@@ -1169,7 +1169,27 @@ img{
     }
 
     .language-selector {
-        display: none;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 0 8px 0 auto;
+}
+     .lang-btn {
+        padding: 5px 2px;
+        font-size: 12px;
+        color: white;
+    }
+    .lang-btn.active {
+        color: var(--gold);
+    }
+    .navbar.scrolled .lang-btn {
+        color: var(--green);
+    }
+    .navbar.scrolled .lang-btn.active {
+        color: var(--gold);
+    }
+    .menu-toggle {
+        margin-left: 0;
     }
 
     .contact-btn {
