@@ -1212,4 +1212,13 @@ img{
     .contact-btn{
         margin-bottom:20px;
     }
+    .services-grid,
+.global-grid,
+.features-grid,
+.cards-grid,
+.grid {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 24px !important;
+}
 }
