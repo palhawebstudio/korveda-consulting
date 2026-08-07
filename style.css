@@ -1288,4 +1288,32 @@ img{
     width:100%;
     max-width:100%;
 }
+    .footer-container{
+    display:flex;
+    flex-direction:column;
+    gap:40px;
+    text-align:center;
+}
+
+.footer-about,
+.footer-links,
+.footer-contact{
+    width:100%;
+    max-width:100%;
+}
+
+.footer-about img{
+    margin:0 auto 20px;
+    display:block;
+}
+
+.footer-links a{
+    display:block;
+    margin:10px 0;
+}
+
+.footer-contact p,
+.footer-contact a{
+    word-break:break-word;
+}
 }
