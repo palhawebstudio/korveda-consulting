@@ -1340,4 +1340,30 @@ img{
     width:100%;
     box-sizing:border-box;
 }
+    .hero-content{
+    width:100%;
+    max-width:100%;
+    padding:0 20px;
+    box-sizing:border-box;
+}
+
+.hero-title{
+    font-size:58px;
+    line-height:0.95;
+    word-break:break-word;
+}
+
+.hero-subtitle{
+    font-size:18px;
+    line-height:1.5;
+}
+
+.hero-description{
+    font-size:18px;
+    line-height:1.7;
+}
+
+.hero .container{
+    padding:0;
+}
 }
