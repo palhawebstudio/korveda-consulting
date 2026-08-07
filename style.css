@@ -1316,4 +1316,28 @@ img{
 .footer-contact a{
     word-break:break-word;
 }
+    .contact-container{
+    grid-template-columns:1fr;
+    gap:30px;
+}
+
+.contact-info,
+.contact-form{
+    width:100%;
+    max-width:100%;
+}
+
+.contact-info{
+    padding:35px 25px;
+}
+
+.contact-form{
+    padding:35px 25px;
+}
+
+.contact-form input,
+.contact-form textarea{
+    width:100%;
+    box-sizing:border-box;
+}
 }
