@@ -1145,13 +1145,16 @@ img{
         padding-right: 20px;
     }
 
-    .navbar {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 15px 20px;
-        flex-wrap: nowrap;
-    }
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    flex-wrap: nowrap;
+
+    width: 100%;
+    box-sizing: border-box;
+}
 
     .logo img {
         height: 45px;
