@@ -977,12 +977,15 @@ img{
 
 }
 
-.footer-about img{
-
-    height:90px;
-
-    margin-bottom:25px;
-
+.footer-about img {
+    height: 90px;
+    width: auto;
+    padding: 12px 18px;
+    background: #f5f1e6;
+    border-radius: 12px;
+    object-fit: contain;
+    margin-bottom: 25px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, .15);
 }
 
 .footer-about p{
