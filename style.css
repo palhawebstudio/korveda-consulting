@@ -1117,7 +1117,10 @@ img{
 
 }
 
-
+/* Esconder o menu hamburguer no computador */
+.menu-toggle {
+    display: none;
+}
 
 /* ===========================
    MOBILE
