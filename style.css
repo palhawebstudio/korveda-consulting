@@ -1228,4 +1228,23 @@ img{
 .reach-card{
     width:100%;
 }
+    .why-layout{
+    display:flex;
+    flex-direction:column;
+    gap:40px;
+}
+
+.why-column{
+    width:100%;
+}
+
+.why-image{
+    width:100%;
+}
+
+.why-image img{
+    width:100%;
+    height:auto;
+    display:block;
+}
 }
