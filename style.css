@@ -141,7 +141,8 @@ img{
 
     position:relative;
 
-    height:100vh;
+   min-height:100svh;
+height:auto;
 
     display:flex;
 
