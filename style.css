@@ -1375,36 +1375,41 @@ img{
     width:100%;
     box-sizing:border-box;
 }
-    .hero-content{
-    width:100%;
-    max-width:100%;
-    padding:0 20px;
-    box-sizing:border-box;
-}
-
-.hero-title{
-    font-size:58px;
-    line-height:0.95;
-    word-break:break-word;
-}
-
-.hero-subtitle{
-    font-size:18px;
-    line-height:1.5;
-}
-
-.hero-description{
-    font-size:18px;
-    line-height:1.7;
-}
-
-.hero .container{
-    padding:0;
-}
-    .hero{
-    height:auto;
-    min-height:100vh;
-    padding-top:120px;
-    padding-bottom:80px;
-}
+.hero {
+        min-height: 100svh;
+        height: 100svh;
+        box-sizing: border-box;
+        padding: 90px 20px 35px;
+        display: flex;
+        align-items: center;
+    }
+    .hero-content {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .hero h1 {
+        font-size: clamp(42px, 12vw, 58px);
+        line-height: 1;
+        margin-bottom: 20px;
+    }
+    .hero p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 25px;
+    }
+    .subtitle {
+        font-size: 11px;
+        letter-spacing: 2px;
+        margin-bottom: 15px;
+    }
+    .hero-buttons {
+        gap: 12px;
+    }
+    .btn-primary,
+    .btn-secondary {
+        padding: 14px 24px;
+        font-size: 14px;
+    }
 }
