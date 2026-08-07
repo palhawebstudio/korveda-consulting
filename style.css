@@ -1277,4 +1277,15 @@ img{
 .footer-logo{
     margin:0 auto;
 }
+    .contact-container{
+    display:flex;
+    flex-direction:column;
+    gap:30px;
+}
+
+.contact-info,
+.contact-form{
+    width:100%;
+    max-width:100%;
+}
 }
