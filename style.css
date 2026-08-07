@@ -1175,19 +1175,14 @@ img{
 
 /* Botão hamburger */
 .menu-toggle{
-    display:none;
+    display:block;
     background:none;
     border:none;
     font-size:2rem;
     color:var(--green);
     cursor:pointer;
+    margin-left:auto;
 }
-
-
-    .menu-toggle{
-        display:block;
-        margin-left:auto;
-    }
 
     .nav-links{
     position:fixed;
