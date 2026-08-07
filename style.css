@@ -1366,4 +1366,10 @@ img{
 .hero .container{
     padding:0;
 }
+    .hero{
+    height:auto;
+    min-height:100vh;
+    padding-top:120px;
+    padding-bottom:80px;
+}
 }
