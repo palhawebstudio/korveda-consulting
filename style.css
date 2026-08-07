@@ -1221,4 +1221,11 @@ img{
     grid-template-columns: 1fr !important;
     gap: 24px !important;
 }
+    .reach-grid{
+    grid-template-columns: 1fr !important;
+}
+
+.reach-card{
+    width:100%;
+}
 }
