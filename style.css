@@ -1207,6 +1207,15 @@ img{
         display:flex;
     }
 
+     /* Links visíveis no menu aberto, mesmo no início da página */
+    .nav-links a,
+    .navbar.scrolled .nav-links a {
+        color: var(--green);
+    }
+    .nav-links a:hover {
+        color: var(--gold);
+    }
+    
     .language-selector{
         margin:20px 0;
     }
